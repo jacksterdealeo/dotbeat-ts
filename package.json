@@ -1,0 +1,12 @@
+{
+  "name": "dotbeat",
+  "version": "1.0.0",
+  "description": "gives you the time in dotbeats",
+  "type": "module",
+  "main": "dotbeat.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit "
+  },
+  "author": "jacksterdealeo",
+  "license": "MIT"
+}
